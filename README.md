@@ -1,6 +1,6 @@
 ![Diagram](STEVE.jpg)
 # S.T.E.V.E-Commands
-`!startserver`- Starts the Minecraft server 
+`!startserver`- Starts the Minecraft server \n
 `!stopserver`- Stops the Minecraft server
 `!status`- Displays the current status of the Minecraft server
 `!ip`- Displays the Public IP address to connect to the Minecraft server
